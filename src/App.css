@@ -1,0 +1,13 @@
+.last-app {
+  display: flex;
+  align-items: center;
+  padding-right: 20px;
+}
+
+.last-app > .MuiSvgIcon-root {
+  color: white;
+}
+
+.cursor-pointer > .MuiSvgIcon-root {
+  margin-right: 15px;
+}
